@@ -5,17 +5,9 @@ title: The Ultimate Guide to Try Out for the WWE Performance Center
 description: So you want to be a pro wrestler or sports entertainer for the biggest wrestling company in the world? WWE (World Wrestling Entertainment) offers a once in a lifetime opportunity to train at the world famous WWE Performance Center, located in Orlando, Florida. If you've ever dreamed of making it big in WWE, now is the time to take action. WWE is constantly on the lookout for fresh talent, and they've made it easier than ever to apply. Follow the steps below to kickstart your journey to becoming the next WWE Superstar!
 keywords: [WWE Performance Center,How to join WWE,WWE tryouts,WWE training center,WWE recruitment,WWE application process,Become a WWE Superstar,WWE wrestling school,WWE Performance Center Orlando,WWE sports entertainer application]
 slug: the-ultimate-guide-to-try-out-for-wwe-performance-center
-authors:
-  - name: Jalen Wu
-    title: Former Pro Wrestler
-    url: https://bumpxfeed.com/about/
-    image_url: https://github.com/jhach.png
-    socials:
-      x: https://x.com/bumpxfeed
-      facebook: https://www.facebook.com/bumpxfeed/
-      github: https://github.com/jhach
-tags: [hello, docusaurus-v2]
-image: https://i.imgur.com/mErPwqL.png
+authors: [jalenwu]
+tags: [wwe]
+image: "tryout-step-1.webp"
 hide_table_of_contents: false
 ---
 
@@ -23,7 +15,7 @@ hide_table_of_contents: false
 
 ## Step 1: Apply and submit your application to be a WWE pro wrestler (fka sports entertainer)
 As of Saturday, August 24, 2024, WWE's Recruit website is live and accepting applications. To start your journey, visit the [WWE Recruitment website](https://recruit.wwe.com/) and click the "APPLY" link. A pop-up will appear and ask you to apply as either a college athlete or not.
-
+<!-- truncate -->`
 * College Athletes: If you're a college athlete, you'll be redirected to an NIL (Name, Image, Likeness) questionnaire. This is part of WWE's initiative to recruit college athletes into their developmental program.
 * All Other Applicants: If you're not a college athlete, you'll be guided through a general application process where you'll provide information about your wrestling experience, physical attributes, and background.
 
