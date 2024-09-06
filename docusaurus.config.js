@@ -80,18 +80,19 @@ const config = {
           src: 'img/bfblack180.png',
         },
         items: [
-          {
+          /** {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
+          }, */
+          {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/about', label: 'About', position: 'right'},
+          /** {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          }, */
         ],
       },
       footer: {
@@ -107,19 +108,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Socials',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@bumpxfeed',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'X / Twitter',
+                href: 'https://x.com/bumpxfeed',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/bumpxfeed',
               },
             ],
           },

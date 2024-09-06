@@ -7,7 +7,7 @@ keywords: [WWE Performance Center,How to join WWE,WWE tryouts,WWE training cente
 slug: the-ultimate-guide-to-try-out-for-wwe-performance-center
 authors: [jalenwu]
 tags: [wwe]
-image: "tryout-step-1.webp"
+# image: 
 hide_table_of_contents: false
 ---
 
