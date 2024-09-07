@@ -1,7 +1,7 @@
 ---
 # https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog#markdown-front-matter
 title: The Ultimate Guide to Try Out for the WWE Performance Center
-# date: 
+date: 04-01-2023
 description: So you want to be a pro wrestler or sports entertainer for the biggest wrestling company in the world? WWE (World Wrestling Entertainment) offers a once in a lifetime opportunity to train at the world famous WWE Performance Center, located in Orlando, Florida. If you've ever dreamed of making it big in WWE, now is the time to take action. WWE is constantly on the lookout for fresh talent, and they've made it easier than ever to apply. Follow the steps below to kickstart your journey to becoming the next WWE Superstar!
 keywords: [WWE Performance Center,How to join WWE,WWE tryouts,WWE training center,WWE recruitment,WWE application process,Become a WWE Superstar,WWE wrestling school,WWE Performance Center Orlando,WWE sports entertainer application]
 slug: the-ultimate-guide-to-try-out-for-wwe-performance-center
@@ -11,11 +11,14 @@ tags: [wwe]
 hide_table_of_contents: false
 ---
 
-![WWE Performance Center training facility in Orlando, Florida.](4-steps-to-make-it-to-wwe.webp)
+![WWE Tryouts - Live the dream slogan](./img/tryout-step-1.webp)
 
 ## Step 1: Apply and submit your application to be a WWE pro wrestler (fka sports entertainer)
 As of Saturday, August 24, 2024, WWE's Recruit website is live and accepting applications. To start your journey, visit the [WWE Recruitment website](https://recruit.wwe.com/) and click the "APPLY" link. A pop-up will appear and ask you to apply as either a college athlete or not.
 <!-- truncate -->`
+
+![WWE Performance Center training facility in Orlando, Florida.](./img/4-steps-to-make-it-to-wwe.webp)
+
 * College Athletes: If you're a college athlete, you'll be redirected to an NIL (Name, Image, Likeness) questionnaire. This is part of WWE's initiative to recruit college athletes into their developmental program.
 * All Other Applicants: If you're not a college athlete, you'll be guided through a general application process where you'll provide information about your wrestling experience, physical attributes, and background.
 
@@ -24,7 +27,7 @@ As of Saturday, August 24, 2024, WWE's Recruit website is live and accepting app
 Make sure your application stands out by highlighting any unique skills, athletic achievements, and wrestling experience. WWE is looking for individuals who can bring something special to their roster.
 :::
 
-![WWE Performance Center application page with options for college athletes and general applicants.](wwe-recruit-application.png)
+![WWE Performance Center application page with options for college athletes and general applicants.](./img/wwe-recruit-application.png)
 
 ---
 
