@@ -87,6 +87,7 @@ const config = {
             label: 'Tutorial',
           }, */
           {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/blog/tags', label: 'Tags', position: 'right'},
           {to: '/about', label: 'About', position: 'right'},
           /** {
             href: 'https://github.com/facebook/docusaurus',
