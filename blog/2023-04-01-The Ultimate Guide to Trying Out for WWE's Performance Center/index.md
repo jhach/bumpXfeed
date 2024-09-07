@@ -15,7 +15,7 @@ hide_table_of_contents: false
 
 ## Step 1: Apply and submit your application to be a WWE pro wrestler (fka sports entertainer)
 As of Saturday, August 24, 2024, WWE's Recruit website is live and accepting applications. To start your journey, visit the [WWE Recruitment website](https://recruit.wwe.com/) and click the "APPLY" link. A pop-up will appear and ask you to apply as either a college athlete or not.
-<!-- truncate -->`
+<!-- truncate -->
 
 ![WWE Performance Center training facility in Orlando, Florida.](./img/4-steps-to-make-it-to-wwe.webp)
 

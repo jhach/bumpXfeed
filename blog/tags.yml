@@ -2,3 +2,8 @@ wwe:
   label: WWE 
   permalink: /wwe 
   description: The WWE tag page on bumpxfeed.com is your one-stop destination for everything related to World Wrestling Entertainment. From in-depth match analyses, wrestler profiles, and event recaps to breaking news and behind-the-scenes stories, this page delivers all things WWE. Whether you’re catching up on iconic moments or exploring the latest developments, we’ve got it covered. Explore top stars like Roman Reigns, Bianca Belair, and Seth Rollins, and dive into content that keeps you connected with WWE’s ever-evolving universe. Perfect for fans looking for comprehensive coverage of sports entertainment’s biggest brand.
+
+wwe performance center:
+  label: WWE Performance Center 
+  permalink: /wwe-performance-center
+  description: The WWE Performance Center is like the Harvard of pro wrestling – only with more headlocks and fewer Ivy League sweaters. It’s where WWE molds their next generation of superstars, turning raw talent into future main eventers. From Montez Ford to Bianca Belair, this is where the grind starts for those hungry to make it to the big stage. On bumpXfeed, we dive deep into the journeys of these up-and-comers, their rise through NXT, and the highs (and lows) of the grueling WWE developmental system. If you’re curious about who the next John Cena might be, you’ve found the right place.
