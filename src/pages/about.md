@@ -1,5 +1,6 @@
 ---
 title: About
+slug: about
 date: 2023-04-01
 description: "Get to know Jalen Wu, the former pro wrestler and founder of bumpXfeed, and how his journey in the ring led to a passion for sharing insights on the wrestling world."
 ---

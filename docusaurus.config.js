@@ -98,7 +98,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
+          /** {
             title: 'Docs',
             items: [
               {
@@ -106,7 +106,7 @@ const config = {
                 to: '/docs/intro',
               },
             ],
-          },
+          }, */
           {
             title: 'Socials',
             items: [
@@ -128,12 +128,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'About',
+                to: '/about',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Privacy Policy',
+                to: '/privacy-policy',
               },
             ],
           },
